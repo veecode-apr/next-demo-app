@@ -1,0 +1,8 @@
+site_name: "next-demo-app"
+site_description: "next-demo-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
